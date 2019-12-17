@@ -17,7 +17,7 @@ remote_theme : mmistakes/minimal-mistakes
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "개인블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sangkwon"
